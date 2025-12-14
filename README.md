@@ -1,6 +1,6 @@
-# Primeiro Trabalho – Redes I
+# Segundo Trabalho – Redes I
 
-Este repositório contém a implementação do **Primeiro Trabalho da matéria Redes I**.
+Este repositório contém a implementação do **Segundo Trabalho da matéria Redes I**.
 
 **Professor:** Marlos Marques
 **Semestre:** 2025.2
