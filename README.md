@@ -2,7 +2,9 @@
 
 Este repositório contém a implementação do **Segundo Trabalho da matéria Redes I**.
 
-**Professor:** Marlos Marques
+**Nota:** 100/100  
+
+**Professor:** Marlos Marques  
 **Semestre:** 2025.2
 
 ---
