@@ -3,6 +3,7 @@
 Este repositório contém a implementação do **Segundo Trabalho da matéria Redes I**.
 
 **Nota:** 100/100  
+**Observações:** Nos trabalhos seguintes tive que mudar meu enquadramento por inserção de bytes para ser \ab\ \cd\ ao invés de como está nesse trabalho (\ab\cd\)
 
 **Professor:** Marlos Marques  
 **Semestre:** 2025.2
