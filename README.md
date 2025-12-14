@@ -14,7 +14,12 @@ Este repositório contém a implementação do **Segundo Trabalho da matéria Re
 
 Este trabalho é uma continuação do Primeiro Trabalho de Redes I.
 
-O objetivo é implementar o enquadramento do fluxo de bits, organizando a transmissão da mensagem em quadros, a partir de uma sequência contínua de bits.
+O objetivo é implementar o enquadramento do fluxo de bits, organizando a transmissão da mensagem em quadros usando os enquadramentos:
+
+* Contagem de Caracteres  
+* Inserção de Bytes  
+* Inserção de Bits  
+* Violação da Camada Física  
 
 A implementação simula o processo de enquadramento utilizado na comunicação de dados, permitindo que o receptor identifique corretamente o início e o fim de cada quadro durante a transmissão.
 
